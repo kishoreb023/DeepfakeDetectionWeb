@@ -55,8 +55,6 @@ pip install -r requirements.txt
 4. Run the app:
 python app.py
 
-5. Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
-
 ---
 
 ## 📸 Sample Prediction Output
@@ -69,7 +67,7 @@ python app.py
 
 ## 📌 Note
 
-- This project uses a **custom-trained model**, not pre-trained ViT or external APIs.
+- This project uses a **custom-trained model**
 - Compatible with CPU-based inference (no GPU required).
 - Designed for educational and research purposes.
 
